@@ -6,7 +6,7 @@ import type {
 
 export const homeHero = {
   badge: "Built in DC. Serving businesses nationwide.",
-  title: "See what you're actually paying in processing fees",
+  title: "See what you're actually paying in processing fees 123456",
   subcopy:
     "Upload a recent merchant statement and PayHero will break down your effective rate, fee breakdown, and potential savings.",
   primaryCta: { label: "Upload Statement", href: "/upload", dataCta: "hero-upload" },
