@@ -5,7 +5,7 @@ import type {
 } from "@/types/content";
 
 export const homeHero = {
-  badge: "Built in DC. Serving businesses nationwide.",
+  badge: "Built in DC. Serving businesses nationwide. 123",
   title: "See what you're actually paying in processing fees 123456",
   subcopy:
     "Upload a recent merchant statement and PayHero will break down your effective rate, fee breakdown, and potential savings.",
